@@ -6,7 +6,7 @@ import GlobalStyle from "./styles/GlobalStyle";
 import HomePage from "./pages/HomePage";
 import NavBar from "./components/NavBar";
 //Router Routing
-import { Route, Outlet, createBrowserRouter } from "react-router-dom";
+import { Outlet, createBrowserRouter } from "react-router-dom";
 import ErrorPage from "./routes/error-page";
 
 export const routerComp = createBrowserRouter([
@@ -14,12 +14,7 @@ export const routerComp = createBrowserRouter([
     path: "/",
     element: <App />,
     errorElement: <ErrorPage />,
-    children: [
-      // {
-      //   path: "/",
-      //   element: <HomePage />,
-      // },
-    ],
+    children: [],
   },
 ]);
 

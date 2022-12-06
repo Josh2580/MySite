@@ -1,4 +1,4 @@
-import styled, { ThemeConsumer } from "styled-components";
+import styled from "styled-components";
 import { ResponsiveStyle } from "./Responsive.style";
 
 export const HeroRes = styled.div`

@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import styled from "styled-components";
 import LogoImg from "../img/Logo.png";
-import HomePage from "../pages/HomePage";
 import {
   NavbarStyle,
   NavbarContainer,
@@ -15,8 +13,6 @@ import {
   OpenLinksButton,
   NavbarLinkExtended,
 } from "../styles/NavBar.style";
-import { AboutCard } from "../styles/About.style";
-import { HashLink } from "react-router-hash-link";
 
 const NavBar = () => {
   const [extendNavbar, setExtendNavbar] = useState(false);

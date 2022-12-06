@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import AboutPix2 from "../img/myPix2.png";
 
 import {
@@ -8,7 +7,6 @@ import {
   CardStyle,
   ImageCard,
   DetailsCard,
-  ListCard,
 } from "../styles/About.style";
 
 const About = () => {

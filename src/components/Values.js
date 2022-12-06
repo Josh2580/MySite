@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import ValueImg from "../img/SiteLogo3.png";
 import {
   About,

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { ResponsiveStyle } from "./Responsive.style";
+// import { ResponsiveStyle } from "./Responsive.style";
 
 export const Resumes = styled.div`
   background-color: white;

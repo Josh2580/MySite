@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import AgreementImg from "../img/agreement.jpg";
 import BackendImg from "../img/Backend.jpeg";
 import FrontendImg from "../img/Frontend.jpeg";
@@ -29,7 +28,7 @@ const Services = () => {
         <AllCards>
           <EachCard>
             <Icons>
-              <img src={FrontendImg} alt="Frontend Image" />
+              <img src={FrontendImg} alt="Frontend Images" />
             </Icons>
             <Details>
               <h3>Front-End Development</h3>
@@ -41,7 +40,7 @@ const Services = () => {
           </EachCard>
           <EachCard>
             <Icons>
-              <img src={BackendImg} alt="Backend Image" />
+              <img src={BackendImg} alt="Backend Images" />
             </Icons>
             <Details>
               <h3>Back-End Development</h3>
@@ -53,7 +52,7 @@ const Services = () => {
           </EachCard>
           <EachCard>
             <Icons>
-              <img src={ResponsiveImg} alt="Responsive Image" />
+              <img src={ResponsiveImg} alt="Responsive Images" />
             </Icons>
             <Details>
               <h3>Responsiveness</h3>
@@ -65,7 +64,7 @@ const Services = () => {
           </EachCard>
           <EachCard>
             <Icons>
-              <img src={AgreementImg} alt="Agreement Image" />
+              <img src={AgreementImg} alt="Agreement Images" />
             </Icons>
             <Details>
               <h3>Meet All Consumer Requirement</h3>
@@ -77,7 +76,7 @@ const Services = () => {
           </EachCard>
           <EachCard>
             <Icons>
-              <img src={ApiImg} alt="API Image" />
+              <img src={ApiImg} alt="API Images" />
             </Icons>
             <Details>
               <h3>API and Database Management</h3>
@@ -89,7 +88,7 @@ const Services = () => {
           </EachCard>
           <EachCard>
             <Icons>
-              <img src={WebImg} alt="Web Image" />
+              <img src={WebImg} alt="Web Images" />
             </Icons>
             <Details>
               <h3>Web Hosting</h3>

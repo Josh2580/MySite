@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import HeroImg from "../img/hero-bg.jpg";
 import { HeroRes, HeroLayout } from "../styles/HeroSection.style";
 import { Button } from "../styles/Button.style";
