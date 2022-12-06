@@ -24,7 +24,7 @@ const ContactForm = () => {
           <MeetUsCard>
             <img src={AddressIcon} alt="Address Icon" />
             <h3>Our Adress</h3>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+            <p>No. 2 Mike Abeh cresent, Oppo Police Station, New Nyanya.</p>
           </MeetUsCard>
           <MeetUsCard>
             <img src={IconEmail} alt="Email Icon" />
