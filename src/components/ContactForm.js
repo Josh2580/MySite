@@ -34,7 +34,9 @@ const ContactForm = () => {
           <MeetUsCard>
             <img src={CallIcon} alt="Call Icon" />
             <h3>Call</h3>
-            <p>+2349038348397</p>
+            <p>
+              +2349038348397 <br /> +2347065704850
+            </p>
           </MeetUsCard>
         </ContactCardLeft>
         <ContactCardRight>
