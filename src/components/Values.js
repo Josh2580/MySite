@@ -14,7 +14,7 @@ const Values = () => {
   return (
     <About>
       <AboutValue>
-        <h2>Our Values</h2>
+        <h2>Values</h2>
         <AllCardsValue>
           <EachCardValue>
             <IconsValue>
