@@ -22,7 +22,7 @@ export const EduExp = styled.div`
     padding-bottom: 0.5rem;
   }
   p {
-    padding: 0.5rem 0rem;
+    padding-bottom: 10px;
   }
   @media (max-width: 916px) {
     flex-direction: column;

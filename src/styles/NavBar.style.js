@@ -4,7 +4,7 @@ import { HashLink as Link } from "react-router-hash-link";
 import { ResponsiveStyle } from "./Responsive.style";
 
 export const NavbarStyle = styled.div`
-  background-color: #4d4d4d;
+  background-color: #212020;
   min-height: 60px;
   position: fixed;
   width: 100vw;

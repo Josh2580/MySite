@@ -1,5 +1,7 @@
 import React from "react";
-import ValueImg from "../img/SiteLogo3.png";
+
+import ValueImg from "../img/Colored Logo3.png";
+
 import {
   About,
   AboutValue,

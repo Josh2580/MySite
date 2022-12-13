@@ -25,7 +25,7 @@ export const ResponsiveStyle = styled.div`
   }
   @media (max-width: ${({ theme }) => theme.mobile}) {
     display: block;
-    width: 96%;
+    width: 85%;
     max-width: 550px;
   }
 `;

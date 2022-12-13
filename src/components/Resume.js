@@ -27,7 +27,9 @@ const Resume = () => {
             <h2>Education</h2>
             <h3>B.eng in Computer Engineering</h3>
             <span>Oct 2015 – Jun 2021</span>
-            <i>Michael Okpara University, Umuahia</i>
+            <p>
+              <i>Michael Okpara University, Umuahia</i>
+            </p>
             <p>
               I studied Computer Engineering, my project topic was Gas Detection
               System which include implementation of hardware components and
@@ -35,7 +37,9 @@ const Resume = () => {
             </p>
             <h3>Diploma in Computer Information Technology</h3>
             <span>Feb 2015 – Jul 2015</span>
-            <i>Uniquemori Institute, Abuja</i>
+            <p>
+              <i>Uniquemori Institute, Abuja</i>
+            </p>
             <p>
               I studied the fundermentals and basics of data science, word
               spreadsheat, and graphic Design
@@ -45,12 +49,13 @@ const Resume = () => {
             <h2>Experience</h2>
             <h3>WordPress Junior Developer</h3>
             <span>June 2019</span>
-            <i>FixUp Professionals, Abuja</i>
-            <ul>
-              <li>I function as a junior developer in the organization.</li>
-              <br />
-              <li>Working with other team members to achieve a common goal.</li>
-            </ul>
+            <p>
+              <i>FixUp Professionals, Abuja</i>
+            </p>
+            <p>
+              I function as a junior developer in the organization. <br />{" "}
+              Working with other team members to achieve a common goal.
+            </p>
           </Experience>
         </EduExp>
       </ResponsiveStyle>

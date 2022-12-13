@@ -8,15 +8,11 @@ const GlobalStyle = createGlobalStyle`
         font-family:Tahoma, sans-serif;
         overflow-x: hidden;
     };
-    html {
-        @media (max-width: 919px) {
-            font-size: 14px;
-        }
-    }
+
     h1{
         font-size: 3rem;
         color: #0f0f2c;
-        font-weight: lighter;
+        font-weight: Bold;
 
     };
 
@@ -38,7 +34,7 @@ const GlobalStyle = createGlobalStyle`
 
     p{
         font-size: 1rem;
-        color: #272727;
+        color: #4d4d4d;
         line-height: 1.5;
     };
 

@@ -4,7 +4,7 @@ import { ResponsiveStyle } from "./Responsive.style";
 
 export const About = styled.div`
   width: 100vw;
-  background-color: #ededed;
+  background-color: #ffff;
 
   #ValueImg {
     position: fixed;
@@ -45,11 +45,10 @@ export const EachCardValue = styled.div`
 export const IconsValue = styled.div`
   width: 45px;
   img {
-    border: 2px dotted #1890e0;
     overflow: hidden;
     height: 40px;
     width: 40px;
-    padding: 5px;
+
     margin: 0px;
     border-radius: 50%;
     color: white;
