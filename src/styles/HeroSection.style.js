@@ -15,7 +15,7 @@ export const HeroRes = styled.div`
     z-index: -1;
     width: 100%;
     height: auto;
-    filter: brightness(50%);
+    filter: brightness(40%);
 
     @media (max-width: 700px) {
       top: 4.9rem;
